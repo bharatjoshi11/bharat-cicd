@@ -8,7 +8,7 @@ env:
   buck: teststorage1983
   TFSTATE_FILE: bucket.tfstate
   
-  aws-region: us-east-1
+  aws-region: ap-south-1
 
 jobs:
   terraform_plan:
